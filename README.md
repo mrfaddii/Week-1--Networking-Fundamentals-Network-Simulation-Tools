@@ -83,7 +83,7 @@ I’m new to GNS3 so I did face some challenges, I was trying to connect both th
 
 ## Related Links
 
-- **LinkedIn Post:** [Insert link to your LinkedIn submission]
+- **LinkedIn Post:** https://www.linkedin.com/posts/qazi-muhammad-fahad-a59ab6415_week-1-ugcPost-7478433245903306754-NINI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGm0MWUBaXBVY-JUyCvHI6QMqh9YVTbldKE
 - **Full Report:** See [`Week1_Report`](./Report.docx) in this repository
 
 ## Acknowledgements
