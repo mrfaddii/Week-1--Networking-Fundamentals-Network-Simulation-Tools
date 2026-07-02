@@ -30,18 +30,25 @@ A simple Local Area Network (LAN) topology was designed and implemented in both 
 ## Repository Structure
 
 ```
-Week1/
+Week-1--Networking-Fundamentals-Network-Simulation-Tools
 ├── README.md                 
-├── Report.pdf                
+├── Week1_Report.docx                
 ├── PacketTracer/
-│   └── Week1_Topology.pkt     
+│   └── Network_Fundamentals_&_Network_Simulation_tools.pkt     
 ├── GNS3/
-│   └── Week1_Project/        
+│   └── Network_Fundamentals_&_Network_Simulation_Tools.gns3        
 └── Screenshots/
-    ├── packet_tracer_topology.png
-    ├── packet_tracer_ping.png
-    ├── gns3_topology.png
-    └── gns3_ping.png
+    ├── Cisco_Interface.png
+    ├── Cisco_PC1_IP.png
+    ├── Cisco_PC2_IP.png
+    ├── Cisco_PC1_Ping.png
+    ├── Cisco_PC2_Ping.png
+    ├── GNS3_Interface.png
+    ├── GNS3_PC1_IP.png
+    ├── GNS3_PC2_IP.png
+    ├── GNS3_PC1_Ping.png
+    └── GNS3_PC2_Ping.png
+    
 ```
 
 ## Topology Summary
